@@ -7,8 +7,7 @@ ONLY WORK IN INDONESIA
 
 # Instalation Termux
 ```bash
-pkg install git
-pkg install python2
+pkg install git python2
 pip2 install mechanize
 git clone https://github.com/LOoLzeC/SpamBrutal
 cd SpamBrutal
